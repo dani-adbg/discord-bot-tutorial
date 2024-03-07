@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot-tutorial",
+  "version": "1.0.0",
+  "description": "Discord bot tutorial",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dani-adbg/discord-bot-tutorial.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord-bot",
+    "discord",
+    "node.js"
+  ],
+  "author": "dani_adbg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dani-adbg/discord-bot-tutorial/issues"
+  },
+  "homepage": "https://github.com/dani-adbg/discord-bot-tutorial#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
